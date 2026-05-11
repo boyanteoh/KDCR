@@ -1,3 +1,6 @@
+%% RA for May 11
+%% Used for Figure 3.13 SCARA manipulator
+
 % 1. Define your robot parameters (lengths in meters)
 l1 = 1.2; 
 l2 = 0.8;
